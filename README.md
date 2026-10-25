@@ -36,7 +36,6 @@ O app monta um pedido em cinco telas: prato principal, bebida, sobremesa, forma 
 - Dados passados entre as telas pelos construtores
 - `StatefulWidget` e `setState` para controlar as seleções
 - `PopScope` e `Navigator.pushAndRemoveUntil` para bloquear o retorno na finalização
-- `ThemeData` com as cores, os botões e os cards do AV3
 - Ícones próprios em PNG em `assets/icones`
 
 </details>
