@@ -4,8 +4,6 @@ Exercício da disciplina Programação para Dispositivos Móveis
 
 O app monta um pedido em cinco telas: prato principal, bebida, sobremesa, forma de pagamento e finalização
 
-![Demonstração do app](assets/midia/video%20demostrativo.gif)
-
 <details>
 <summary><strong>Telas</strong></summary>
 
@@ -78,3 +76,7 @@ flutter run -t lib/um.dart -d chrome
 ```
 
 </details>
+
+<br>
+
+![Demonstração do app](assets/midia/video%20demostrativo.gif)
